@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/IntBoat/mf-u-plucky-finch-20-one-line-one-laugh-0ffe66ea/rank.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
 [![reward](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/IntBoat/mf-u-plucky-finch-20-one-line-one-laugh-0ffe66ea/reward.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
 
-One funny line, written to /output/entry.txt by a small Python program. Entered in make.fun's One Line, One Laugh bounty.
+One funny line, and nothing more — a fitness tracker proud of steps earned on fridge runs. A small Python program writes the line to `/output/entry.txt`. This repository is an entry in make.fun's One Line, One Laugh bounty.
 
 ## Entry
 
@@ -15,6 +15,8 @@ One funny line, written to /output/entry.txt by a small Python program. Entered 
 ```sh
 python3 main.py
 ```
+
+The program creates `/output/entry.txt` containing exactly the line above.
 
 ---
 
